@@ -19,7 +19,8 @@ import org.json.JSONException;
 import org.json.JSONObject;
 import java.util.Map.Entry;
 
-import your.package.name.R;
+//import your.package.name.R;
+import com.ionicframework.hhapp472743.R;
 
 import cn.jpush.android.api.BasicPushNotificationBuilder;
 import cn.jpush.android.api.CustomPushNotificationBuilder;
